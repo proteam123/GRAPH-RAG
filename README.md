@@ -109,5 +109,8 @@ and who acted in it?
 ---
 
 ⭐ Built to explore Knowledge Graphs, LLM-powered information extraction, and Graph-based Retrieval-Augmented Generation.
-<img width="1857" height="921" alt="Screenshot 2026-11-09 143904" src="https://github.com/user-attachments/assets/581a075f-9fee-4346-b919-987ae013b16b" />
+<img width="1780" height="883" alt="Blurred Neo4j Aura Query Graph Interface" src="https://github.com/user-attachments/assets/822d788d-3cca-4f20-b6ad-ca119d5f28cf" />
+
+<img width="1911" height="1026" alt="Screenshot 2026-11-09 144051" src="https://github.com/user-attachments/assets/9cbcd198-daf4-40ef-b1fe-459616790810" />
+
 
