@@ -109,3 +109,5 @@ and who acted in it?
 ---
 
 ⭐ Built to explore Knowledge Graphs, LLM-powered information extraction, and Graph-based Retrieval-Augmented Generation.
+<img width="1857" height="921" alt="Screenshot 2026-11-09 143904" src="https://github.com/user-attachments/assets/581a075f-9fee-4346-b919-987ae013b16b" />
+
